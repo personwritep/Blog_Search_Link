@@ -8,6 +8,7 @@
 // @exclude        https://blog.ameba.jp/ucs/entry/srventry*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ameblo.jp
 // @grant        none
+// @noframes
 // @updateURL        https://github.com/personwritep/Blog_Search_Link/raw/main/Blog_Search_Link.user.js
 // @downloadURL        https://github.com/personwritep/Blog_Search_Link/raw/main/Blog_Search_Link.user.js
 // ==/UserScript==
